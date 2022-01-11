@@ -5,6 +5,7 @@ public class ComentarioLinea {
 		//System.out.println("Hola");
 		System.out.println("Adios");
 		System.out.println("FIN DE PROGRAMA");
+		System.out.println("Hola");
 	}
 
 }
